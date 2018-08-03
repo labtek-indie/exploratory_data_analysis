@@ -1,0 +1,52 @@
+modul,nama,role,sprint_1_backlog,sprint_1_nps,sprint_1_wh,sprint_1_rating,sprint_2_backlog,sprint_2_nps,sprint_2_wh,sprint_2_rating,sprint_3_backlog,sprint_3_nps,sprint_3_wh,sprint_3_rating
+Ekspektasi & Realita,rezzy Yolanda Wulandhari ,SM,0,2,3,5,0,2,3,5,4,3,3,10
+,Mahirza Avil ,Desainer UI,0,0,0,0,0,0,0,0,4,2.25,1.08,7.3
+,Viananda Andrias,Animator 2D,0,2,1.5,3.5,0,3,1.2,4.2,4,1.5,0.18,5.7
+,Eldo Fadlyady,Multimedia Developer,0,0,0,0,0,0,0,0,4,1.5,1.62,7.1
+,Rambu,Resolume Operator,0,2,1.02,3,0,2,0.96,3,4,1.5,0.18,5.7
+Inflasi,rezzy yolanda wulandhari,SM,0,1.5,3,4.5,0,3,3,6,4,3,3,10
+,Mahirza Avil ,Desainer UI,0,0,0,0,0,2.4,1.02,3.4,4,2.4,0.9,7.3
+,Viandanda Andrias,Animator 2D,0,1.5,0.96,2.5,0,2.4,0.66,3.1,4,1.8,0.42,6.2
+,beryl Ramadhian,Multimedia Developer,0,2.25,2.58,4.8,0,2.4,1.68,4.1,4,2.4,2.64,9
+,Eldo Fadlyady,Multimedia Developer,0,0,0,0,0,0,0,0,4,1.2,0.48,5.7
+,Astrid Ramadhani Putri,Resolume Operator,0,0.75,2.28,3,0,1.2,1.14,2.3,4,1.8,0.18,6
+Financial Planning,Ajeng ,SM,4,1.5,3,8.5,0,1,3,4,0,0,0,0
+,Diyan Yagari Pratama,Animator 2D,4,0.75,1.02,5.8,0,0,0,0,0,0,0,0
+,Andi,Multimedia Developer,4,0.75,1.32,6.1,0,3,1.02,4,0,0,0,0
+,Silmi ,Resolume Operator,4,1.5,0.66,6.2,0,0,0,0,0,0,0,0
+Saham Dunia,febia putri oktoria,SM,0,2.25,3,5.3,0,2.25,3,5.3,0,0,0,0
+,Wanda almira,Desainer UX ,0,0,0,0,0,1.5,1.32,2.8,0,0,0,0
+,windansyah,Animator 2D,0,1.5,2.76,4.3,0,2.25,0.54,2.8,0,0,0,0
+,resa kemal saharso,Multimedia Developer,0,2.25,0.72,3,0,2.25,0.6,2.9,0,0,0,0
+,Hanna Sara,Resolume Operator,0,0.75,0.3,1.1,0,0,0,0,0,0,0,0
+Produk Pasar Modal,febia putri orlandy,SM,0,1.5,3,4.5,4,2.25,3,9.3,0,0,0,0
+,Sayid Basyarah,Desainer UI,0,0,0,0,4,1.5,0.66,6.2,0,0,0,0
+,zahra,Multimedia Content Writer,0,-0.75,0.78,0,0,0,0,0,0,0,0,0
+,Adnan,Front-End Dev,0,0.75,4.2,5,4,2.25,1.26,7.5,0,0,0,0
+,Ikhsan,Resolume Operator,0,1.5,2.58,4.1,4,3,1.56,8.6,0,0,0,0
+Sahamku,disya,SM,0,3,0,3,0,3,3,6,0,0,0,0
+,Joshua Admadja,Desainer UX ,0,0,0,0,0,1.2,0.84,2,0,0,0,0
+,Galuh ,Multimedia Content Writer,0,1.5,0.66,2.2,0,1.8,0.12,1.9,0,0,0,0
+,krisna,Front-End Dev,0,2.25,1.68,3.9,0,3,1.14,4.1,0,0,0,0
+,Sri Umay,Front-End Dev,0,2.25,1.74,4,0,3,1.5,4.5,0,0,0,0
+Yuk Nabung Saham,Anisa ,SM,0,2,3,5,0,2.25,3,5.3,0,0,0,0
+,fajar,Front-End Dev,0,2,1.26,3.3,0,0.75,1.92,2.7,0,0,0,0
+,Citra Ratu,Desainer UI,0,0,0,0,0,1.5,2.52,4,0,0,0,0
+,leon,Multimedia Content Writer,0,2,1.2,3.2,0,2.25,0.84,3.1,0,0,0,0
+Photo Booth*,Anisa,SM,0,2.25,3,5.3,0,2.4,3,5.4,0,0,0,0
+,tommy,Multimedia Developer,0,0,1.86,1.9,0,1.2,2.4,3.6,0,0,0,0
+,Muhammad Reza MP,Multimedia Developer,0,1.5,2.1,3.6,0,1.8,1.74,3.5,0,0,0,0
+,Verdian Deki ,Desainer UI,0,0,0,0,0,0.6,1.8,2.4,0,0,0,0
+,Kintan ,Multimedia Content Writer,0,0,0,0,0,1.2,0.78,2,0,0,0,0
+Simulasi,Zaki ,SM,0,0,3,3,0,1.5,3,4.5,0,0,0,0
+,,Game Developer,0,0,0,0,0,1.5,0,1.5,0,0,0,0
+,Henda,Game Developer,0,0,1.8,1.8,0,0,2.28,2.3,0,0,0,0
+,Nadzifa,UI Designer,0,0,0.42,0.4,0,0,0.36,0.4,0,0,0,0
+Temui Kami,Zaki,SM,0,2,3,5,0,3,3,6,0,0,0,0
+,jenal,Front-End Dev,0,2,0.72,2.7,0,3,0.9,3.9,0,0,0,0
+,Ikhwan,Front-End Dev,0,1,1.08,2.1,0,2,1.2,3.2,0,0,0,0
+,talitha,Multimedia Content Writer,0,1,0,1,0,2,1.32,3.3,0,0,0,0
+Group 1,Ridhan,PO,0,0,3,3,0,0,3,3,0,0,0,0
+Group 2,Firman,PO,0,0,3,3,0,0,3,3,0,0,0,0
+Group 3,Dyan,PO,0,0,3,3,0,0,3,3,0,0,0,0
+Group 4,Erdy,PO,0,0,0,0,0,0,0,0,0,0,0,0
